@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, my name is Hazem
+### A computer science graduate, working in software development, looking to improve skills, eager to learn new technologies and share experiences.
 
 <!--
 **HazemEw/HazemEw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
